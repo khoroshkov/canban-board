@@ -1,0 +1,1 @@
+export const stagesNames = ["Backlog", "To Do", "In Progress", "Done"] as const;
